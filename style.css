@@ -1,0 +1,120 @@
+.top-banner{
+    height: 324px;
+    width: 100%;
+    background-image: url("../lesson10-118/images/background.png");
+}
+
+body{
+    margin: 0;
+}
+.top-banner{
+    color: white;
+}
+.header{
+    padding: 40px 150px;
+}
+.title{
+    display: inline-block;
+    width: 500px;
+}
+.menu{
+    display: inline-block;
+}
+.menu h5{
+    display: inline-block;
+    padding-right:10px;
+}
+.home{
+    color: #5863F8;
+}
+.banner-text h4{
+    display: inline-block;
+}
+.line{
+    display: inline-block;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.tittle{
+    color: #5863F8;
+}
+.second-page{
+    margin:250px;
+    
+    display: inline-block;
+}
+
+.text{
+    color: white;
+}
+.link{
+    background-color: #5863F8;
+    
+}
+.right-corner{
+    display: inline-block;
+    width: 50px;
+   margin-left: 50px;
+}
+.fragment{
+    display: inline-block; 
+    width: 250px;
+}
+.photo{
+    display: inline-block;
+    margin-left: 270px;
+}
+.pphoto{
+    
+    display: inline-block;
+
+}
+.background-banner{
+background-image: url("../lesson10-118/images/group.png");
+height: 800px;
+width: 100%;
+}
+.about-us{
+    color: #5863F8;
+    margin: 100px;
+}
+.tekst{
+    color: white;
+    margin: 100px;
+}
+.ho-tel{
+    padding-left: 80px;
+   padding-top: 15px;
+   background-color: #5863F8;
+    width: 50px;
+   display: inline-block;
+}
+.first{
+    height: 200px;
+    width: 200px;
+   margin-left: 50px;
+    background-color: white;
+    display: inline-block;
+}
+.second{
+    
+    margin-left: 50px;
+    width:200px ;
+    height: 200px;
+    background-color: white;
+    display: inline-block;
+}
+.third{
+    width: 200px;
+    margin-left: 50px;
+    height: 200px;
+    background-color: white;
+    display: inline-block;
+}
+.fourth{
+    width: 200px;
+    margin-left: 50px;
+    height: 200px;
+    background-color: white;
+    display: inline-block;
+}
